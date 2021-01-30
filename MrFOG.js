@@ -100,6 +100,8 @@ const MrFOG97 = new Discord.Client();
 const MrFOG98 = new Discord.Client();
 const MrFOG99 = new Discord.Client();
 const MrFOG100= new Discord.Client();
+const MrFOG101= new Discord.Client();
+
 
 
 
@@ -203,5 +205,5 @@ MrFOG97.login("");
 MrFOG98.login("");
 MrFOG99.login("");
 MrFOG100.login("");
-
+MrFOG101.login("ODA0OTUzNzY4MTY4NTIxNzM4.YBT8lA.ReMGbkUTjZHzl-3CdXoDVLUCtCo");
 
