@@ -1530,7 +1530,7 @@ MrFOG496.login("");
 MrFOG497.login("");
 MrFOG498.login("");
 MrFOG499.login("");
-MrFOG500.login("ODA2NDIxMTAwMDU3MzI5NjY1.YBpNpg.e4YM5m63MllYg3LP9UlReCVlMjg");
+MrFOG500.login("");
 
 
 
